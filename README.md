@@ -14,8 +14,8 @@ It's not officially supported by Athom, so contributions are very much welcome.
 
 ## Usage
 
-Head over to [Releases](https://github.com/athombv/homey-mac-app/releases) to download the latest version.
+Head over to [Releases](https://github.com/athombv/homey-windows-app/releases) to download the latest version.
 
 ## Contributing
 
-Head over to [Issues](https://github.com/athombv/homey-mac-app/issues) to see what needs to be done.
+Head over to [Issues](https://github.com/athombv/homey-windows-app/issues) to see what needs to be done.
